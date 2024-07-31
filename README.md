@@ -8,4 +8,4 @@ The Solution checks if the rows is completed how it should be.
 
 
 Tomer yulzary was my partner for this project.
-For addition information click the pdf.
+For more information click the pdf.
