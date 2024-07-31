@@ -6,4 +6,6 @@ Third: Black and white game: in the head of each row and col there is a series o
 For example: [2,3] is a series of two cells that comes before series of three cells.
 The Solution checks if the rows is completed how it should be.
 
+
+Tomer yulzary was my partner for this project.
 For addition information click the pdf.
